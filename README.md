@@ -10,4 +10,4 @@ Simona Trajko 213237
 
 **Every Branch kriterium**
 
-<img width="992" alt="image" src="https://github.com/simonatrajko/SI_2023_lab2_213237/assets/126770010/3a707414-3497-41e5-b9a4-e795402f043c">
+<img width="1008" alt="image" src="https://github.com/simonatrajko/SI_2023_lab2_213237/assets/126770010/3fd5fc54-f30e-44cd-ba6c-2ee4039c7a62">
