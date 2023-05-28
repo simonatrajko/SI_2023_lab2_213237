@@ -1,1 +1,1 @@
-# SI_2023_lab2_213237
+Simona Trajko 213237
