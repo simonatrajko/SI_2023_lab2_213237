@@ -2,7 +2,7 @@ Simona Trajko 213237
 
 **Control Flow Graph**
 
-![Screenshot 2023-05-29 at 01.01.12](Screenshot 2023-05-29 at 01.01.12.png)
+![Screenshot 2023-05-29 at 01.01.12](images/Screenshot 2023-05-29 at 01.01.12.png)
 
 
 **Цикломатска комплексност**
@@ -11,7 +11,7 @@ Simona Trajko 213237
 
 **Every Branch kriterium**
  
- ![CFG](cfg.png)
+ ![Screenshot 2023-05-29 at 01.22.23](images/Screenshot 2023-05-29 at 01.22.23.png)
  
 **Multiple Condition критериумот**
 
